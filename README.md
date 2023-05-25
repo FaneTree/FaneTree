@@ -4,13 +4,14 @@
 - 🎓 Background in Automotive Engineering and Finance.
 - 💼 Passionate about data and technology to help other.
 
+### 😄 Pronouns: He/Him
+
 ### 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fanetree/)
 &nbsp;
-[![Mail](https://edent.github.io/SuperTinyIcons/images/svg/email.svg)](mailto:fane.tree@gmail.com)
-
-
-### 😄 Pronouns: He/Him
+<a href="mailto:fane.tree@gmail.com">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" alt="Mail" width="100">
+</a>
 
 ## Languages and Tools:
 ### 👨‍💻 Tech stack I use:
