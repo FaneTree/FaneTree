@@ -9,12 +9,10 @@
 ### 📫 How to reach me:
 
 <a href="https://www.linkedin.com/in/fanetree/">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="Mail" width="20">
-    <p>LinkedIn</p>
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="Mail" width="20"><p>LinkedIn</p>
  </a>
 <a href="mailto:fane.tree@gmail.com">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" alt="Mail" width="20">
-  <p>Email</p>
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" alt="Mail" width="20"><p>Email</p>
 </a>
 
 ## Languages and Tools:
