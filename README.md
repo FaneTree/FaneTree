@@ -7,7 +7,8 @@
 ### 📫 How to reach me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/fanetree/)
 &nbsp;
-[![Mail]("https://edent.github.io/SuperTinyIcons/images/svg/email.svg") Email](fane.tree@gmail.com)
+[![Mail](https://edent.github.io/SuperTinyIcons/images/svg/email.svg)](mailto:fane.tree@gmail.com)
+
 
 ### 😄 Pronouns: He/Him
 
@@ -22,7 +23,8 @@
 
 ### ☁ Data skills:
 - Excel, Power BI, DAX, Power Query, M language, VBA
-- Data modelling, data visualisation, data engineering, Git, Google Cloud Platform, Airflow, data pipeline and ETL.
+- Data modelling, data visualisation, data engineering, Git, 
+- Google Cloud Platform, Airflow, data pipeline and ETL.
 
 ### 🔔 My Latest Guthub Activity:
 - [YumYumBites](https://project4-yumyumbites-8cohx7mup-tanakorntree.vercel.app/)
