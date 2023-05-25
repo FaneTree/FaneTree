@@ -8,10 +8,10 @@
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/fanetree/" style="flex">
+<a href="https://www.linkedin.com/in/fanetree/" style="display:flex">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="Mail" width="20"><p>LinkedIn</p>
  </a>
-<a href="mailto:fane.tree@gmail.com" style="flex">
+<a href="mailto:fane.tree@gmail.com" style="display:flex">
   <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" alt="Mail" width="20"><p>Email</p>
 </a>
 
