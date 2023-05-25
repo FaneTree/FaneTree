@@ -8,12 +8,17 @@
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/fanetree/" style="display:flex">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="Mail" width="20"><p>LinkedIn</p>
- </a>
-<a href="mailto:fane.tree@gmail.com" style="display:flex">
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" alt="Mail" width="20"><p>Email</p>
-</a>
+<div style="display: flex;">
+  <a href="https://www.linkedin.com/in/fanetree/" style="display: flex; align-items: center; margin-right: 20px;">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="15" style="margin-right: 5px;">
+    <p style="margin: 0;">LinkedIn</p>
+  </a>
+  <a href="mailto:fane.tree@gmail.com" style="display: flex; align-items: center;">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" alt="Mail" width="15" style="margin-right: 5px;">
+    <p style="margin: 0;">Email</p>
+  </a>
+</div>
+
 
 ## Languages and Tools:
 ### 👨‍💻 Tech stack I use:
