@@ -8,17 +8,8 @@
 
 ### 📫 How to reach me:
 
-<div style="display: flex;">
-  <a href="https://www.linkedin.com/in/fanetree/" style="display: flex; align-items: center; margin-right: 20px;">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="15" style="margin-right: 5px;">
-    <p style="margin: 0;">LinkedIn</p>
-  </a>
-  <a href="mailto:fane.tree@gmail.com" style="display: flex; align-items: center;">
-    <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" alt="Mail" width="15" style="margin-right: 5px;">
-    <p style="margin: 0;">Email</p>
-  </a>
-</div>
-
+[<img src="https://i.stack.imgur.com/gVE0j.png" height="15em" align="center" alt="LinkedIn" title="LinkedIn"/>]LinkedIn(https://www.linkedin.com/in/fanetree/)
+[<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" height="15em" align="center" alt="Email" title="Email"/>]Email(mailto:fane.tree@gmail.com)
 
 ## Languages and Tools:
 ### 👨‍💻 Tech stack I use:
@@ -56,3 +47,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <div style="display: flex;">
+  <a href="https://www.linkedin.com/in/fanetree/" style="display: flex; align-items: center; margin-right: 20px;">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="LinkedIn" width="15" style="margin-right: 5px;">
+    <p style="margin: 0;">LinkedIn</p>
+  </a>
+  <a href="mailto:fane.tree@gmail.com" style="display: flex; align-items: center;">
+    <img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" alt="Mail" width="15" style="margin-right: 5px;">
+    <p style="margin: 0;">Email</p>
+  </a>
+</div> -->
