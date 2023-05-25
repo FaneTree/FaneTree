@@ -8,8 +8,8 @@
 
 ### 📫 How to reach me:
 
-[<img src="https://i.stack.imgur.com/gVE0j.png" height="15em" align="center" alt="LinkedIn" title="LinkedIn"/>]LinkedIn(https://www.linkedin.com/in/fanetree/)
-[<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" height="15em" align="center" alt="Email" title="Email"/>]Email(mailto:fane.tree@gmail.com)
+- [<img src="https://i.stack.imgur.com/gVE0j.png" height="15em" align="center" alt="LinkedIn" title="LinkedIn"/> LinkedIn](https://www.linkedin.com/in/fanetree/) 
+- [<img src="https://edent.github.io/SuperTinyIcons/images/svg/email.svg" height="15em" align="center" alt="Email" title="Email"/> Email](mailto:fane.tree@gmail.com) 
 
 ## Languages and Tools:
 ### 👨‍💻 Tech stack I use:
@@ -58,3 +58,7 @@ Here are some ideas to get you started:
     <p style="margin: 0;">Email</p>
   </a>
 </div> -->
+
+<!-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) -->
