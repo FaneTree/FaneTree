@@ -14,7 +14,7 @@
 ## Languages and Tools:
 ### 👨‍💻 Tech stack I use:
 - Front-end: ReactJS, VueJS, BootStrap, Tailwinds, CSS\SCSS, HTML
-- Back-end: NodeJS, Ruby on Rails, ExpressJS
+- Back-end: NodeJS, Ruby on Rails, ExpressJS, NestJS
 - Languages: JavaScript, Ruby, Python, SQL
 - Databases: PostgreSQL, MySQL, MongoDB
 - Deployment: Netlify, GitHub, Firebase, Heroku
