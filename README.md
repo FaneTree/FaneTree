@@ -1,6 +1,6 @@
 ## Hi 👋 I am Fane
 ### :book: About Me
-- 🖥 I am a Software Engineer based out of Sydney.
+- 🖥 I am a Software Engineer / Data Analyst based out of Sydney.
 - 🎓 Background in Automotive Engineering and Finance.
 - 💼 Passionate about data and technology to help others.
 
@@ -23,7 +23,7 @@
 ### ☁ Data skills:
 - Excel, Power BI, DAX, Power Query, M language, VBA
 - Data modelling, data visualisation, data engineering 
-- Google Cloud Platform, Airflow, data pipeline and ETL.
+- Google Cloud Platform, Airflow, data pipeline, and ETL.
 
 ### 🔔 My Latest Guthub Activity:
 - [YumYumBites](https://project4-yumyumbites-8cohx7mup-tanakorntree.vercel.app/)
