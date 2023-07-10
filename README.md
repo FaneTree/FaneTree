@@ -2,7 +2,7 @@
 ### :book: About Me
 - 🖥 I am a Software Engineer based out of Sydney.
 - 🎓 Background in Automotive Engineering and Finance.
-- 💼 Passionate about data and technology to help other.
+- 💼 Passionate about data and technology to help others.
 
 ### 😄 Pronouns: He/Him
 
